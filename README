@@ -24,11 +24,8 @@ imagens/mario.gif: Animação do Mario correndo.
 imagens/pipe.png: Obstáculo (cano) que o Mario precisa desviar.
 
 COMO JOGAR
-Clone este repositório:
-
-bash
-Copiar código
-git clone https://github.com/seu-usuario/jogo-mario.git
+Baixe o arquive zip
+Descompacte
 Abra o arquivo index.html no seu navegador para iniciar o jogo.
 Use as teclas de enter para o jogo começar e espaço para pular para fazer o Mario pular e evitar os obstáculos!
 
